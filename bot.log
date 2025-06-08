@@ -1,0 +1,532 @@
+2025-06-07 23:37:44,471 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-07 23:37:44,659 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-07 23:37:44,702 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-07 23:37:44,704 - telegram.ext.Application - INFO - Application started
+2025-06-07 23:37:54,839 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:38:04,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:38:14,936 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:38:19,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:38:19,356 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-07 23:38:19,356 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-07 23:40:24,956 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-07 23:40:25,134 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-07 23:40:25,178 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-07 23:40:25,178 - telegram.ext.Application - INFO - Application started
+2025-06-07 23:40:31,873 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:31,893 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-07 23:40:32,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:40:36,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:36,407 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил историю
+2025-06-07 23:40:36,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:40:38,324 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:38,325 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил избранное
+2025-06-07 23:40:38,388 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:40:48,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:49,956 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:49,957 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: Амстердам
+2025-06-07 23:40:50,105 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:40:52,468 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:40:52,476 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил избранное
+2025-06-07 23:40:52,536 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:40:54,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:04,135 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:10,262 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:10,263 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-07 23:41:10,448 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:41:20,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:28,942 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:28,943 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил погоду для Москва
+2025-06-07 23:41:29,253 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:41:30,742 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:40,791 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:41:50,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:00,877 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:10,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:20,966 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:31,012 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:41,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:42:51,099 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:01,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:11,184 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:21,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:31,272 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:41,319 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:43:51,362 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:01,405 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:11,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:21,492 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:31,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:41,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:44:51,624 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:01,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:11,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:21,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:31,798 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:41,842 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:47,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:45:47,583 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-07 23:45:47,584 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-07 23:46:11,550 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-07 23:46:11,716 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-07 23:46:11,758 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-07 23:46:11,759 - telegram.ext.Application - INFO - Application started
+2025-06-07 23:46:13,916 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:14,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:22,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:22,071 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-07 23:46:22,360 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:46:23,728 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:23,731 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил историю
+2025-06-07 23:46:23,981 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:46:31,634 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:31,635 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-07 23:46:31,635 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-07 23:46:38,233 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-07 23:46:38,398 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-07 23:46:38,442 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-07 23:46:38,443 - telegram.ext.Application - INFO - Application started
+2025-06-07 23:46:45,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:45,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-07 23:46:52,469 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-07 23:46:52,469 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-07 23:46:52,469 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 00:04:52,661 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 00:04:52,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 00:04:52,866 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 00:04:52,867 - telegram.ext.Application - INFO - Application started
+2025-06-08 00:04:52,996 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:04:52,998 - weather_bot.utils.logger - INFO - Пользователь 718117904 начал работу
+2025-06-08 00:04:53,083 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:04:58,740 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:00,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:00,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:01,154 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:01,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:06,457 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:05:06,458 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 00:05:06,458 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 00:10:31,150 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 00:10:31,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 00:10:31,358 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 00:10:31,360 - telegram.ext.Application - INFO - Application started
+2025-06-08 00:10:40,376 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:10:45,053 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:10:45,054 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил избранное
+2025-06-08 00:10:45,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:10:55,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:10:55,011 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил избранное
+2025-06-08 00:10:55,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:11:05,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:07,918 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:07,919 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил избранное
+2025-06-08 00:11:08,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:11:15,963 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:15,964 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-08 00:11:16,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:11:23,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:24,040 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:11:33,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:43,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:11:53,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:04,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:14,043 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:24,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:34,129 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:44,172 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:12:54,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:04,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:14,296 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:24,336 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:34,380 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:44,421 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:13:54,465 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:04,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:14,551 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:24,594 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:34,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:44,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:14:54,718 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:04,758 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:14,799 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:24,843 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:34,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:44,927 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:15:54,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:05,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:15,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:25,112 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:35,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:45,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:16:55,247 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:05,292 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:15,332 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:25,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:35,415 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:45,462 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:17:55,504 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:05,546 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:15,598 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:25,640 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:35,682 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:45,725 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:18:55,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:05,810 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:15,850 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:25,892 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:35,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:45,978 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:19:56,019 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:06,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:16,104 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:26,147 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:36,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:46,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:20:56,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:06,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:16,352 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:26,392 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:36,435 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:46,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:21:56,518 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:22:00,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:22:00,937 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 00:22:00,937 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 00:26:49,534 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 00:26:49,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 00:26:49,748 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 00:26:49,749 - telegram.ext.Application - INFO - Application started
+2025-06-08 00:26:59,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:00,133 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:00,315 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:02,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:02,087 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-08 00:27:02,194 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:04,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:11,394 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:21,438 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:27,725 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:27,726 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил погоду для Москва
+2025-06-08 00:27:27,965 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:28,916 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:28,979 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:27:28,980 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил прогноз для Москва
+2025-06-08 00:27:29,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:35,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:36,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:27:36,123 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: Москва
+2025-06-08 00:27:36,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:38,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:43,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:43,373 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 00:27:43,373 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 00:27:44,783 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 00:27:44,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 00:27:45,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 00:27:45,003 - telegram.ext.Application - INFO - Application started
+2025-06-08 00:27:47,250 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:47,251 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-08 00:27:47,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:50,148 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:50,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:51,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:51,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:27:51,464 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:53,049 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:53,153 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:27:53,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:56,707 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:56,771 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:56,834 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:59,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:27:59,891 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:27:59,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:07,145 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:07,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:09,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:09,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:10,436 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:10,508 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:10,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:17,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:17,882 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-08 00:28:18,035 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:27,925 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:30,360 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:30,361 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: Дудинка
+2025-06-08 00:28:30,584 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:33,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:33,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:33,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:28:43,269 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:28:53,327 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:03,371 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:13,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:23,453 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:33,496 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:43,537 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:29:53,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:02,918 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:03,057 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:30:03,058 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Амстердам
+2025-06-08 00:30:03,234 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:30:06,461 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:06,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:30:06,509 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил прогноз для Амстердам
+2025-06-08 00:30:06,725 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:30:09,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:09,321 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:30:09,324 - weather_bot.utils.logger - INFO - Пользователь 718117904 удалил из избранного: Дудинка
+2025-06-08 00:30:09,392 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:30:09,460 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:30:19,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:29,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:39,396 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:49,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:30:59,480 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:31:09,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:31:12,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:31:12,818 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 00:31:12,819 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 00:32:47,551 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 00:32:47,723 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 00:32:47,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 00:32:47,768 - telegram.ext.Application - INFO - Application started
+2025-06-08 00:32:52,429 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:32:52,429 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-08 00:32:52,557 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:32:55,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:32:55,231 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:32:55,294 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:32:56,168 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:32:56,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:32:56,218 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Амстердам
+2025-06-08 00:32:56,218 - weather_bot.utils.logger - INFO - Использован кэш для Амстердам (ru)
+2025-06-08 00:32:56,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:32:57,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:32:57,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:32:57,714 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил прогноз для Амстердам
+2025-06-08 00:32:57,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:32:59,326 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:32:59,444 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:32:59,445 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Москва
+2025-06-08 00:32:59,445 - weather_bot.utils.logger - INFO - Использован кэш для Москва (ru)
+2025-06-08 00:32:59,610 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:33:00,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:33:00,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:33:01,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:33:01,985 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 00:33:01,986 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Москва
+2025-06-08 00:33:01,987 - weather_bot.utils.logger - INFO - Использован кэш для Москва (ru)
+2025-06-08 00:33:02,051 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 00:33:08,044 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 00:33:08,044 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 00:33:08,044 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 21:02:02,971 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 21:02:03,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 21:02:03,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 21:02:03,212 - telegram.ext.Application - INFO - Application started
+2025-06-08 21:02:13,351 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:23,398 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:25,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:25,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:02:25,964 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил прогноз для Москва
+2025-06-08 21:02:26,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:02:31,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:31,863 - weather_bot.utils.logger - INFO - Пользователь 718117904 начал работу
+2025-06-08 21:02:32,026 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:02:39,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:39,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:02:39,302 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:02:49,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:02:59,168 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:09,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:19,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:29,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:39,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:49,409 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:03:59,461 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:00,003 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:00,255 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:04:03,309 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:03,310 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-08 21:04:03,398 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:04:05,666 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:05,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:04:05,857 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:04:15,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:25,760 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:35,806 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:45,852 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:04:55,897 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:05:05,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:05:15,990 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:05:21,352 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:05:21,352 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 21:05:21,352 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 21:10:53,983 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 21:10:54,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 21:10:54,220 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 21:10:54,221 - telegram.ext.Application - INFO - Application started
+2025-06-08 21:10:57,789 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:10:57,790 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-08 21:10:57,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:10:59,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:00,826 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:00,894 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:02,969 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:03,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:03,163 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:05,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:05,484 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:11:05,485 - weather_bot.utils.logger - INFO - Пользователь 718117904 удалил из избранного: Амстердам
+2025-06-08 21:11:05,550 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:05,626 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:08,606 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:08,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:11:08,664 - weather_bot.utils.logger - INFO - Пользователь 718117904 очистил избранное
+2025-06-08 21:11:08,744 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:12,043 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:12,044 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил помощь
+2025-06-08 21:11:12,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:22,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:23,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:23,565 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: Москва
+2025-06-08 21:11:23,709 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:29,506 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:29,691 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:32,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:32,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:33,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:35,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:35,442 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:11:35,443 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Москва
+2025-06-08 21:11:35,657 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:36,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:37,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:11:37,032 - weather_bot.utils.logger - INFO - Пользователь 718117904 запросил прогноз для Москва
+2025-06-08 21:11:37,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:38,106 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:38,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:11:38,217 - weather_bot.utils.logger - INFO - Пользователь 718117904 удалил из избранного: Москва
+2025-06-08 21:11:38,364 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:38,527 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:11:48,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:56,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:11:56,811 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 21:11:56,811 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 21:25:50,281 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 21:25:50,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 21:25:50,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 21:25:50,495 - telegram.ext.Application - INFO - Application started
+2025-06-08 21:25:50,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:25:50,621 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для погоды
+2025-06-08 21:25:50,681 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:25:57,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:25:57,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:25:57,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:25:59,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:25:59,797 - weather_bot.utils.logger - INFO - Пользователь 718117904 не указал город для добавления в избранное
+2025-06-08 21:25:59,886 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:09,422 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:09,424 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: мск
+2025-06-08 21:26:09,588 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:15,027 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:15,029 - weather_bot.utils.logger - INFO - Пользователь 718117904 добавил в избранное: м
+2025-06-08 21:26:15,029 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Professional\AppData\Local\Programs\Python\Python313\Lib\site-packages\PythonProject1\.venv\Lib\site-packages\telegram\ext\_application.py", line 1298, in process_update
+    await coroutine
+  File "C:\Users\Professional\AppData\Local\Programs\Python\Python313\Lib\site-packages\PythonProject1\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\AppData\Local\Programs\Python\Python313\Lib\site-packages\PythonProject1\weather_bot\routers\commands.py", line 233, in add_fav
+    await update.message.reply_text(tr['city_added_to_fav'].format(city=city))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-06-08 21:26:25,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:27,452 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:27,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:27,707 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:29,281 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:29,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:26:29,338 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: М
+2025-06-08 21:26:29,458 - weather_bot.utils.logger - INFO - Ошибка сети: 404 Client Error: Not Found for url: http://api.openweathermap.org/data/2.5/weather?q=%D0%9C&appid=f5fdee069748d1599cb4d69d4d3a7f2c&units=metric&lang=ru
+2025-06-08 21:26:29,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:32,213 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:32,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-08 21:26:32,269 - weather_bot.utils.logger - INFO - Пользователь 718117904 выбрал город: Мск
+2025-06-08 21:26:32,444 - weather_bot.utils.logger - INFO - Ошибка сети: 404 Client Error: Not Found for url: http://api.openweathermap.org/data/2.5/weather?q=%D0%9C%D1%81%D0%BA&appid=f5fdee069748d1599cb4d69d4d3a7f2c&units=metric&lang=ru
+2025-06-08 21:26:32,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/sendMessage "HTTP/1.1 200 OK"
+2025-06-08 21:26:42,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:26:52,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:02,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:12,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:22,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:32,491 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:42,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:27:52,576 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:02,629 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:12,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:22,724 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:32,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:42,809 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:28:52,852 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:02,904 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:12,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:23,021 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:33,067 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:43,111 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:29:53,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:03,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:13,251 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:23,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:33,347 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:43,394 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:30:53,442 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:03,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:13,532 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:23,577 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:33,626 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:43,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:31:53,725 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:03,774 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:13,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:23,866 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:33,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:43,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:32:54,029 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:04,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:14,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:24,169 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:34,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:44,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:33:54,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:04,345 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:14,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:24,436 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:34,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:44,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:34:54,573 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:04,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:14,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:24,709 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:34,756 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:44,806 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:35:54,851 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:04,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:14,941 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:24,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:35,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:45,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:36:55,130 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:37:05,176 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:37:09,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:37:09,226 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 21:37:09,226 - telegram.ext.Application - INFO - Application.stop() complete
+2025-06-08 21:47:41,764 - weather_bot.utils.logger - INFO - Бот запущен
+2025-06-08 21:47:41,948 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getMe "HTTP/1.1 200 OK"
+2025-06-08 21:47:41,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-08 21:47:41,993 - telegram.ext.Application - INFO - Application started
+2025-06-08 21:47:47,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7527150739:AAH4xvQ7D197oqop8GMp4BxSXl8aiH_0avg/getUpdates "HTTP/1.1 200 OK"
+2025-06-08 21:47:47,441 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-06-08 21:47:47,441 - telegram.ext.Application - INFO - Application.stop() complete
